@@ -84,7 +84,3 @@
 
 * Email: [juli1032@naver.com](mailto:your-email@example.com)
 
-
-> "Turning data into meaningful insights."
-
-특히 네 경우에는 **따릉이 고장 예측 프로젝트**가 가장 강점이라서 맨 위 프로젝트에 두는 게 좋아. GitHub 프로필은 "내가 어떤 사람인지"보다 "내가 뭘 만들었는지"를 보여주는 공간이라 프로젝트 중심으로 구성하는 걸 추천해.
