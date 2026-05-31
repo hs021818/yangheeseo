@@ -3,7 +3,7 @@
 
 ## About Me
 
-🎓 Double Major in Information Sociology & Statistics
+🎓 Soongsil university & Double Major in Information Sociology & Statistics
 
 📊 Interested in Data Analysis
 
